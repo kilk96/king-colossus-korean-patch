@@ -2,9 +2,15 @@
 
 일본판 《투기왕 킹콜로서스》의 대사·메뉴·시스템 문구와 이름 입력을 한글화한 비공식 패치입니다.
 
+## v1.0.1 변경 내용
+
+주인공의 누나 플로라가 말하는 대사6개의 존댓말을 다정한 반말로 통일했습니다. 수정한 문구의 화면 표시와 글꼴을 확인했습니다. 일부 장면은 테스트용 진행·체력 조건으로 확인했으며, 이번 수정판으로 전체 게임을 다시 완주하지는 않았습니다.
+
+이전 한글판을 이용하셨더라도 새 패치는 일본판 원본에 적용해 주세요. 기존 저장은 먼저 백업해 주세요.
+
 ## 다운로드
 
-[v1.0.0 배포 페이지](https://github.com/kilk96/king-colossus-korean-patch/releases/tag/v1.0.0)에서 **king-colossus-ko-v1.0.0.zip**을 내려받아 주세요. 원본 게임 파일은 포함하지 않습니다. `Source code` 압축 파일은 받지 않으셔도 됩니다.
+[v1.0.1 배포 페이지](https://github.com/kilk96/king-colossus-korean-patch/releases/tag/v1.0.1)에서 **king-colossus-ko-v1.0.1.zip**을 내려받아 주세요. 원본 게임 파일은 포함하지 않습니다. `Source code` 압축 파일은 받지 않으셔도 됩니다.
 
 보유하신 일본판의 헤더 없는 BIN 원본에 xdelta **3.2 이상**으로 적용해 주세요. ZIP에 자세한 적용 안내, 결과 파일 확인값과 글꼴 라이선스가 들어 있습니다.
 
@@ -15,10 +21,10 @@ SHA-256은 지원하는 원본과 파일 내용이 같은지 확인하는 값입
 
 ## 한글판 화면
 
-![한글 이름 입력](https://github.com/kilk96/king-colossus-korean-patch/releases/download/v1.0.0/01-name-entry.png)
-![한국어 대사](https://github.com/kilk96/king-colossus-korean-patch/releases/download/v1.0.0/02-dialogue.png)
-![상태와 장비](https://github.com/kilk96/king-colossus-korean-patch/releases/download/v1.0.0/03-status.png)
-![저장 선택](https://github.com/kilk96/king-colossus-korean-patch/releases/download/v1.0.0/04-save-select.png)
+![한글 이름 입력](https://github.com/kilk96/king-colossus-korean-patch/releases/download/v1.0.1/v1.0.1-01-name-entry.png)
+![한국어 대사](https://github.com/kilk96/king-colossus-korean-patch/releases/download/v1.0.1/v1.0.1-02-dialogue.png)
+![상태와 장비](https://github.com/kilk96/king-colossus-korean-patch/releases/download/v1.0.1/v1.0.1-03-status.png)
+![저장 선택](https://github.com/kilk96/king-colossus-korean-patch/releases/download/v1.0.1/v1.0.1-04-save-select.png)
 
 ## 번역·검증 범위
 
