@@ -4,7 +4,7 @@
 
 ## 다운로드
 
-[최신 패치 다운로드](https://github.com/kilk96/king-colossus-korean-patch/releases/latest)의 **Assets**에서 **`king-colossus-ko-v1.0.1.zip`**을 받아 압축을 풀어 주세요.
+[최신 패치 다운로드](https://github.com/kilk96/king-colossus-korean-patch/releases/latest)의 **Assets**(첨부 파일)에서 `king-colossus-ko-v1.0.1.zip`을 받아 압축을 풀어 주세요.
 
 원본 게임 파일은 별도로 준비해야 합니다. GitHub의 `Source code` 압축 파일과 별도 PNG 미리보기는 패치 적용에 필요하지 않습니다.
 
